@@ -18,8 +18,6 @@ float user_inputf()
     }
     return num;
 }
-
-
 int main(){
     float a = user_inputf();
     float b = user_inputf();
